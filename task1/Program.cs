@@ -18,9 +18,9 @@ if (Num1 == Num2)
 }
 else if (Num1 > Num2)
 {
-    Console.Write("max= " + Num1 + "min= " + Num2);
+    Console.Write("max= " + Num1 + " min= " + Num2);
 }
 else
 {
-    Console.Write("max= " + Num2 + "min= " + Num1);
+    Console.Write("max= " + Num2 + " min= " + Num1);
 }
